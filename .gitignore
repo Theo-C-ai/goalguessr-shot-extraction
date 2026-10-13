@@ -1,0 +1,5 @@
+   *.asv
+   *.m~
+   *.autosave
+   Images_for_MATLAB/
+   shot_coordinates.txt
